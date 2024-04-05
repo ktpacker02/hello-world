@@ -1,2 +1,3 @@
-Kentucky native who loves aviation# hello-world
+# hello-world
 Code Lou
+Kentucky native who loves aviation
